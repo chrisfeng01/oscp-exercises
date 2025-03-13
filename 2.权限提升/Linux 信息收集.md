@@ -1,4 +1,5 @@
-信息收集工具
+# 信息收集工具
+- lipeas https://github.com/peass-ng/PEASS-ng/tree/master/linPEAS
 
 系统敏感文件
 ```
